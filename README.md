@@ -14,10 +14,10 @@ Esta é uma aplicação de linha de comando (CLI) desenvolvida na linguagem C. O
 
 ## 🚀 Como Executar o Projeto
 **1. Clone este repositório no seu computador:**
-   `git clone https://github.com/SEU-USUARIO/O-Decifrador.git`
+  `git clone https://github.com/matheuslsilva13-hub/Enigma.git`
 2. **Pelo terminal, entre na pasta do código-fonte:**
-   `cd O-Decifrador/src`
+   `cd Enigma/src`
 3. **Compile o programa usando o GCC:**
-   `gcc main.c -o decifrador`
+   `gcc main.c -o enigma`
 4. **Execute o programa:**
-   `./decifrador`
+   `./enigma`
