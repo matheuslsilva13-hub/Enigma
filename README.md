@@ -13,7 +13,7 @@ Esta é uma aplicação de linha de comando (CLI) desenvolvida na linguagem C. O
 **[Quadro Kanban da Equipe]**(https://canva.link/kanbanenigma)
 
 ## 🚀 Como Executar o Projeto
-**1. Clone este repositório no seu computador:**
+**1. Clone este repositório no seu computador (Proompt de comando):**
   `git clone https://github.com/matheuslsilva13-hub/Enigma.git`
 2. **Pelo terminal, entre na pasta do código-fonte:**
    `cd Enigma/src`
