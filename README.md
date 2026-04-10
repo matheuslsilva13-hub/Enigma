@@ -10,7 +10,7 @@ Esta é uma aplicação de linha de comando (CLI) desenvolvida na linguagem C. O
 - 💻 **Menu Interativo:** Uma interface simples no terminal para o usuário escolher facilmente a ação que deseja realizar.
 
 - ## 🔗 Links Importantes (Rastreabilidade)
-**[Quadro Kanban da Equipe]**()
+**[Quadro Kanban da Equipe]**(https://canva.link/kanbanenigma)
 
 ## 🚀 Como Executar o Projeto
 **1. Clone este repositório no seu computador:**
